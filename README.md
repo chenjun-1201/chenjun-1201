@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenjun-1201)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenjun-1201&show_icons=true&theme=radical)
 
@@ -26,3 +25,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenjun-1201&hide=语言1,语言2)](https://github.com/anuraghazra/github-readme-stats)
